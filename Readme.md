@@ -24,9 +24,9 @@
 ## Stats:
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=gsantoro&count_private=true&hide=scala,html,Jupyter%20Notebook&show_icons=true&locale=en&theme=transparent" title="github stats" alt="Github stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=gsantoro&count_private=true&hide=scala,html,Jupyter%20Notebook&show_icons=true&locale=en&theme=vue-dark" title="github stats" alt="Github stats" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=gsantoro&count_private=true&show_icons=true&locale=en&theme=transparent" title="github stats" alt="Github stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=gsantoro&count_private=true&show_icons=true&locale=en&theme=vue-dark" title="github stats" alt="Github stats" />
 </p>
