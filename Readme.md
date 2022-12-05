@@ -30,3 +30,8 @@
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=gsantoro&count_private=true&show_icons=true&locale=en&theme=vue-dark" title="github stats" alt="Github stats" />
 </p>
+
+
+<p align="center">
+  <img src="https://leetcard.jacoblin.cool/gsantoro?ext=heatmap&theme=nord" title="leetcode stats" alt="Leetcode stats" />
+</p>
