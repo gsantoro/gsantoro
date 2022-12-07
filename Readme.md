@@ -1,55 +1,63 @@
 ![Visitors](https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Fgsantoro%2Fgsantoro&labelColor=%23697689&countColor=%23555555&style=flat)
 
-<h1 align="center">Hi 👋, I'm Giuseppe Santoro</h1>
-<h3 align="center">A passionate Senior Software Engineer from Italy</h3>
+<h1 align="center">Hi 👋, I'm Giuseppe Santoro 👨‍💻</h1>
+<!-- <h3 align="center">A passionate Senior Software Engineer from Italy</h3> -->
 
-[![CV: santorogiuseppe](https://img.shields.io/badge/-CurriculumVitae-006600?style=for-the-badge&logo=read-the-docs&logoColor=white&link=https://gsantoro.github.io/)](https://gsantoro.github.io/)
 
+<!-- ![Bio](./img/bio.png) -->
+
+<p align="center">
+  <img src="img/bio.png" width="700"/>
+</p>
+
+<p align="center">
+<img src="https://img.shields.io/badge/-CurriculumVitae-006600?style=for-the-badge&logo=read-the-docs&logoColor=white&link=https://gsantoro.github.io/" alt="">
+</p>
 
 ---
 
-## Social Networks
-[![Linkedin: santorogiuseppe](https://img.shields.io/badge/-santorogiuseppe-0A66C2?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/santorogiuseppe/)](https://www.linkedin.com/in/santorogiuseppe/)
-[![Stackoverflow: 680740](https://img.shields.io/badge/-user:680740-F58025?style=for-the-badge&logo=Stackoverflow&logoColor=white&link=https://stackoverflow.com/users/680740/pinosan)](https://stackoverflow.com/users/680740/pinosan)
-[![Leetcode: gsantoro](https://img.shields.io/badge/-gsantoro-FFA116?style=for-the-badge&logo=Leetcode&logoColor=white&link=https://leetcode.com/gsantoro/)](https://leetcode.com/gsantoro/)
-[![Github: gsantoro](https://img.shields.io/badge/-gsantoro-white?style=for-the-badge&logo=Github&logoColor=black&link=https://github.com/gsantoro)](https://github.com/gsantoro)
+<details open>
+  <summary><img src="img/contact.svg" width="15"> Reach me on</summary>
+  <p align="center">
+    <img src="https://img.shields.io/badge/-santorogiuseppe-0A66C2?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/santorogiuseppe/" alt="Linkedin">
+    <img src="https://img.shields.io/badge/-user:680740-F58025?style=for-the-badge&logo=Stackoverflow&logoColor=white&link=https://stackoverflow.com/users/680740/pinosan" alt="Stackoverflow">
+    <img src="https://img.shields.io/badge/-gsantoro-FFA116?style=for-the-badge&logo=Leetcode&logoColor=white&link=https://leetcode.com/gsantoro/" alt="Leetcode">
+    <img src="https://img.shields.io/badge/-gsantoro-white?style=for-the-badge&logo=Github&logoColor=black&link=https://github.com/gsantoro" alt="Github">
+  </p>
+</details>
 
 ---
 
-## 🗣️ Languages
-
-![Golang](https://img.shields.io/badge/-golang-00ADD8?&style=for-the-badge&logo=go&logoColor=white)
-![Python](https://img.shields.io/badge/-python-3776AB?&style=for-the-badge&logo=python&logoColor=white)
-
-## 🖥️ Devops Tools
-
-![Kubernetes](https://img.shields.io/badge/-kubernetes-326CE5?&style=for-the-badge&logo=kubernetes&logoColor=white)
-![Docker](https://img.shields.io/badge/-docker-2496ED?&style=for-the-badge&logo=docker&logoColor=white)
-![Elastic](https://img.shields.io/badge/-elastic-005571?&style=for-the-badge&logo=elastic&logoColor=white)
-
-## ☁️ Cloud Providers
-
-![Amazon](https://img.shields.io/badge/-amazon-FF9900?&style=for-the-badge&logo=amazon&logoColor=white)
-![Google](https://img.shields.io/badge/-google-4285F4?&style=for-the-badge&logo=google&logoColor=white)
+<details open>
+  <summary><img src="img/skills.svg" width="15"/> Skills</summary>
+  
+  <p align="center">
+    <img src="https://img.shields.io/badge/python-★★★-01541C?&style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
+    <img src="https://img.shields.io/badge/golang-★★☆-00ADD8?&style=for-the-badge&logo=go&logoColor=white" alt="Golang"/>
+    <img src="https://img.shields.io/badge/docker-★★★-2496ED?&style=for-the-badge&logo=docker&logoColor=white" alt="Docker"/>
+    <img src="https://img.shields.io/badge/kubernetes-★★☆-326CE5?&style=for-the-badge&logo=kubernetes&logoColor=white" alt="Kubernetes" />
+    <img src="https://img.shields.io/badge/elastic-★★☆-F04E98?&style=for-the-badge&logo=elastic&logoColor=white" alt="Elastic"/>
+    <img src="https://img.shields.io/badge/aws-★★★-FF9900?&style=for-the-badge&logo=amazon aws&logoColor=white" alt="Amazon"/>
+    <img src="https://img.shields.io/badge/google cloud-★☆☆-B366F6?&style=for-the-badge&logo=google cloud&logoColor=white" alt="Google" />
+    <img src="https://img.shields.io/badge/linux-★★★-FCC624?&style=for-the-badge&logo=linux&logoColor=white" alt="Amazon"/>
+    <img src="https://img.shields.io/badge/mac os-★★☆-999999?&style=for-the-badge&logo=Apple&logoColor=white" alt="Google"/>
+  </p>
+</details>
 
 ---
 
-## 🧮 Leetcode Stats
+<details open>
+  <summary><img src="img/leetcode.svg" width="15"> Leetcode Stats</summary>
+  <p align="center">
+    <img src="https://leetcard.jacoblin.cool/gsantoro?ext=heatmap&theme=nord" title="Leetcode stats" alt="Leetcode stats" />
+  </p>
+</details>
 
-<p align="center">
-  <img src="https://leetcard.jacoblin.cool/gsantoro?ext=heatmap&theme=nord" title="leetcode stats" alt="Leetcode stats" />
-</p>
-
-
-## 🧮 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=gsantoro&count_private=true&show_icons=true&locale=en&theme=nord" title="github stats" alt="Github stats" />
-</p>
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=gsantoro&theme=nord&column=7)](https://github.com/ryo-ma/github-profile-trophy)
-
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=gsantoro&count_private=true&hide=scala,html,Jupyter%20Notebook&show_icons=true&locale=en&theme=nord" title="github stats" alt="Github stats" />
-</p>
+<details>
+  <summary><img src="img/github.svg" width="15"> Github Stats</summary>
+  <p align="center"></p>
+    <img src="https://github-readme-stats.vercel.app/api?username=gsantoro&count_private=true&show_icons=true&locale=en&theme=nord" title="github stats" alt="Github stats" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=gsantoro&count_private=true&hide=scala,html,Jupyter%20Notebook&show_icons=true&locale=en&theme=nord" title="github stats" alt="Github stats" />
+    <img src="https://github-profile-trophy.vercel.app/?username=gsantoro&theme=nord&column=7" title="Github awards" alt="Github awards">
+  </p>
+</details>
