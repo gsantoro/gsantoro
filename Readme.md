@@ -89,10 +89,13 @@
 
 <details>
   <summary><img src="img/github.svg" width="15"> Github Stats</summary>
-  <p align="center"></p>
+  <p align="center">
     <img src="https://github-readme-stats.vercel.app/api?username=gsantoro&count_private=true&show_icons=true&locale=en&theme=nord" title="github stats" alt="Github stats" />
-    <img src="https://github-readme-streak-stats.herokuapp.com?user=gsantoro&theme=nord&date_format=j%20M%5B%20Y%5D" title="Github streak" alt="Github streak" />
+    </br>
     <img src="https://github-readme-stats.vercel.app/api/top-langs?username=gsantoro&count_private=true&hide=scala,html,Jupyter%20Notebook&show_icons=true&locale=en&theme=nord" title="github stats" alt="Github stats" />
+    </br>
+    <img src="https://github-readme-streak-stats.herokuapp.com?user=gsantoro&theme=nord&date_format=j%20M%5B%20Y%5D" title="Github streak" alt="Github streak" />
+    </br>
     <img src="https://github-profile-trophy.vercel.app/?username=gsantoro&theme=nord&column=7" title="Github awards" alt="Github awards" />
   </p>
 </details>
