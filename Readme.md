@@ -39,6 +39,16 @@
   </p>
 </details>
 
+
+<details open>
+  <summary><img src="img/contact.svg" width="15"> Support me on</summary>
+  <p align="center">
+    <a href="https://ko-fi.com/C0C5GW174">
+      <img src="https://ko-fi.com/img/githubbutton_sm.svg" alt="Ko-fi">
+    </a>
+  </p>
+</details>
+
 ---
 
 <details open>
