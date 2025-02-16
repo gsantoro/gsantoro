@@ -33,9 +33,6 @@
     <a href="https://github.com/gsantoro">
       <img src="https://img.shields.io/badge/-gsantoro-white?style=for-the-badge&logo=Github&logoColor=black&link=https://github.com/gsantoro" alt="Github">
     </a>
-    <a href="https://twitter.com/gsantoro15">
-      <img src="https://img.shields.io/badge/-gsantoro-1DA1F2?style=for-the-badge&logo=Twitter&logoColor=white&link=https://twitter.com/gsantoro15" alt="Twitter">
-    </a>
   </p>
 </details>
 
