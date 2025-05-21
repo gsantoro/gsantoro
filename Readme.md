@@ -53,14 +53,12 @@
   
   <p align="center">
     <img src="https://img.shields.io/badge/python-★★★-01541C?&style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
-    <img src="https://img.shields.io/badge/golang-★★☆-00ADD8?&style=for-the-badge&logo=go&logoColor=white" alt="Golang"/>
+    <img src="https://img.shields.io/badge/golang-★★★-00ADD8?&style=for-the-badge&logo=go&logoColor=white" alt="Golang"/>
     <img src="https://img.shields.io/badge/docker-★★★-2496ED?&style=for-the-badge&logo=docker&logoColor=white" alt="Docker"/>
-    <img src="https://img.shields.io/badge/kubernetes-★★☆-326CE5?&style=for-the-badge&logo=kubernetes&logoColor=white" alt="Kubernetes" />
-    <img src="https://img.shields.io/badge/elastic-★★☆-F04E98?&style=for-the-badge&logo=elastic&logoColor=white" alt="Elastic"/>
-    <img src="https://img.shields.io/badge/aws-★★★-FF9900?&style=for-the-badge&logo=amazon aws&logoColor=white" alt="Amazon"/>
-    <img src="https://img.shields.io/badge/google cloud-★☆☆-B366F6?&style=for-the-badge&logo=google cloud&logoColor=white" alt="Google" />
-    <img src="https://img.shields.io/badge/linux-★★★-FCC624?&style=for-the-badge&logo=linux&logoColor=white" alt="Amazon"/>
-    <img src="https://img.shields.io/badge/mac os-★★☆-999999?&style=for-the-badge&logo=Apple&logoColor=white" alt="Google"/>
+    <img src="https://img.shields.io/badge/kubernetes-★★★-326CE5?&style=for-the-badge&logo=kubernetes&logoColor=white" alt="Kubernetes" />
+    <img src="https://img.shields.io/badge/elastic-★★★-F04E98?&style=for-the-badge&logo=elastic&logoColor=white" alt="Elastic"/>
+    <img src="https://img.shields.io/badge/aws-★★★-FF9900?&style=for-the-badge&logo=amazon aws&logoColor=white" alt="AWS"/>
+    <img src="https://img.shields.io/badge/google cloud-★★☆-B366F6?&style=for-the-badge&logo=google cloud&logoColor=white" alt="Google Cloud" />
   </p>
 </details>
 
